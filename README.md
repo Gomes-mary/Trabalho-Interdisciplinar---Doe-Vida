@@ -137,6 +137,11 @@ público-alvo, garantindo que as funcionalidades atendam aos objetivos do projet
 Ao final dessa etapa, espera-se obter um protótipo validado e um conjunto de 
 especificações que servirão como base para o desenvolvimento da aplicação. 
 
+### Proposta de valor
+
+A proposta de valor combina conveniência tecnológica com engajamento social e emocional, oferecendo benefícios práticos (como agendamento e histórico de doações) e simbólicos (como reconhecimento e pertencimento a uma causa). A ideia é transformar a experiência da doação em algo mais acessível, motivador e contínuo, aumentando tanto a fidelização dos doadores quanto a eficácia das campanhas.
+
+
 ![Proposta de valor](images/propostadevalor.png)
 
 ### Histórias de Usuários e Proposta de Valor
@@ -193,6 +198,25 @@ História 8  (Samuel)
 **Quero:** acessar um app confiável a respeito de doação de sangue 
 **Para:** coletar informações que possam ser usadas em uma matéria ou campanha 
 publicitária
+
+## Projeto de Interface
+
+### Fluxo de Usuário
+O fluxo do usuário foi elaborado para representar os caminhos que podem ser percorridos dentro da aplicação. Esse mapeamento permite visualizar as telas, ações e interações disponíveis, auxiliando a equipe na organização da navegação e na definição da experiência do usuário.
+
+![FOTO FLUXO DE USUARIO](images/propostadevalor.png)
+
+### Wireframes
+
+Os wireframes foram desenvolvidos para definir a estrutura inicial das telas e a disposição dos principais elementos da interface. Eles serviram como base para o planejamento da navegação e das funcionalidades antes da criação do design final.
+
+![FOTO FLUXO DE USUARIO](images/fluxodeusuario.png)
+
+### Prototipo interativo
+
+O protótipo interativo foi criado para simular o funcionamento da aplicação e permitir a navegação entre as telas. Essa etapa possibilitou validar o fluxo de uso e a experiência do usuário antes do início do desenvolvimento do sistema. 
+
+Link de Acesso: https://www.figma.com/proto/j9ubzZ16mQrQLOitPsj5xQ/Wireframes?node-id=0-1&t=iWBGoRBC7LB0Afdy-1
 
  # 5. Metodologias
 
