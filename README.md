@@ -72,7 +72,7 @@ Design Thinking para organizar ideias e alinhar o conhecimento da equipe sobre o
 projeto. Ela ajuda a identificar o que já sabemos, o que acreditamos ser verdade e o 
 que ainda precisa ser investigado.
 
-[COLOCAR FOTO DA MATRIZ DE ALINHAMENTO]
+![COLOCAR FOTO DA MATRIZ DE ALINHAMENTO](images/matrizealinhamento.png)
 
 Através de pesquisas, fizemos novas descobertas que ampliaram nossas ideias, 
 como: O sistema de pontos adotados pelos Hemocentros e plataformas de 
@@ -88,7 +88,7 @@ impactados ou ter interesse em um projeto. O Mapa de Stakeholders ajuda a
 identificar esses envolvidos e compreender sua relação e influência dentro do 
 contexto analisado.
 
-[COLOCAR FOTO DO MAPA DE STAKEHOLDERS]
+![COLOCAR FOTO DO MAPA DE STAKEHOLDERS](images/mapadestakeholders.png)
 
 Para a montagem do Mapa de Stakeholders analisamos os principais envolvidos, 
 sendo eles:
@@ -111,10 +111,10 @@ quais são suas dificuldades e o que esperam de uma solução. Esse entendimento
 auxilia na tomada de decisões durante o desenvolvimento, garantindo que o projeto 
 esteja mais alinhado às necessidades reais das pessoas envolvidas.
 
-[FOTO DA PERSONA FEITA POR MARIA CLARA]
-[FOTO DA PERSONA FEITA POR ISABELLY]
-[FOTO DA PERSONA FEITA POR ARTHUR]
-[FOTO DA PERSONA FEITA POR SAMUEL]
+![FOTO DA PERSONA FEITA POR MARIA CLARA](images/PersonaMariaClara.png)
+![FOTO DA PERSONA FEITA POR ISABELLY](images/PersonaIsabelly.png)
+![FOTO DA PERSONA FEITA POR ARTHUR](images/PersonaArthur.png)
+![FOTO DA PERSONA FEITA POR SAMUEL](images/PersonaSamuel.png)
 
 ### Perfil do cliente
 
@@ -124,7 +124,7 @@ benefícios que esperam obter e as dificuldades que enfrentam. Essas informaçõ
 ajudam a desenvolver uma solução mais útil, simples e alinhada às necessidades 
 do público-alvo.
 
-[FOTO DA RODA PERFIL DO CLIENTE]
+![FOTO DA RODA PERFIL DO CLIENTE](images/Analiseperfilcliente.png)
 
 # 3. Product discovery
 
@@ -228,5 +228,5 @@ Quando todas as atividades de uma etapa eram concluídas, o cartão principal
 também era movido para a coluna Feito, garantindo uma visão clara das tarefas 
 pendentes, em andamento e concluídas ao longo do projeto.
 
-[FOTO DO QUADRO DE CONTROLE]
+![FOTO DO QUADRO DE CONTROLE](images/QuadroControledetarefas.png)
 
