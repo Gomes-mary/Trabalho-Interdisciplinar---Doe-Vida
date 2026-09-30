@@ -126,7 +126,7 @@ do público-alvo.
 
 ![FOTO DA RODA PERFIL DO CLIENTE](images/Analiseperfilcliente.png)
 
-# 3. Product discovery
+# 4. Product design
 
 A etapa de Product Design tem como objetivo transformar as ideias e 
 necessidades identificadas durante a análise do projeto em uma solução visual e 
@@ -136,6 +136,8 @@ O foco é criar uma experiência simples, intuitiva e alinhada às necessidades 
 público-alvo, garantindo que as funcionalidades atendam aos objetivos do projeto. 
 Ao final dessa etapa, espera-se obter um protótipo validado e um conjunto de 
 especificações que servirão como base para o desenvolvimento da aplicação. 
+
+![Proposta de valor](images/propostadevalor.png)
 
 ### Histórias de Usuários e Proposta de Valor
 
